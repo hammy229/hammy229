@@ -1,6 +1,6 @@
 # Arham Doshi
 
-CS + Linguistics @ UT Austin · ML/NLP Research · Uncertainty in LLMs
+CS + Linguistics @ UT Austin · ML/NLP Research · SWE
 
 ## About
 
