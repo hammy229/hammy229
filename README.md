@@ -6,9 +6,9 @@ CS + Linguistics @ UT Austin · ML/NLP Research · SWE
 
 CS + Linguistics at UT Austin. I study uncertainty in LLMs — measuring how it shows up in language and training models to handle it rather than ignore it.
 
-**Currently:** Wenqi Lab @ UTSW (LLM-as-RNN, clinical AI) · Wang Lab @ Dell Medical School, UT Austin (ALS survival prediction)
+**Currently:** Wang Lab @ Dell Medical School, UT Austin (ALS survival prediction)
 
-**Past:** UT Discourse Lab (LLM behavior) · SMU CS (socioeconomic status from Reddit narratives, CoNLL 2025) · [Hayden Lab](https://www.bcm.edu/research/faculty-labs/benjamin-hayden-lab), Baylor College of Medicine (data from patients with epilepsy)
+**Past:** Wenqi Lab @ UTSW (LLM-as-RNN, clinical AI) · UT Discourse Lab (LLM behavior) · SMU CS (socioeconomic status from Reddit narratives, CoNLL 2025) · [Hayden Lab](https://www.bcm.edu/research/faculty-labs/benjamin-hayden-lab), Baylor College of Medicine (data from patients with epilepsy)
 
 ## Publications
 
