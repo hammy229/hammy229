@@ -4,7 +4,7 @@ CS + Linguistics @ UT Austin · ML/NLP Research · SWE
 
 ## About
 
-CS + Linguistics at UT Austin. I study uncertainty in LLMs — measuring how it shows up in language and training models to handle it rather than ignore it.
+CS + Linguistics at UT Austin.
 
 **Currently:** Wang Lab @ Dell Medical School, UT Austin (ALS survival prediction)
 
