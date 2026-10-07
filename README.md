@@ -31,7 +31,11 @@ CS + Linguistics at UT Austin.
 
 ## Projects
 
-_Coming soon._
+### [The Loss in AI Translation](https://github.com/hammy229/Loss-in-AI-Translation---Ind-Research)
+
+Independent NLP research comparing Transformer and Seq2Seq architectures for machine translation. Includes training code, data, model artifacts, evaluation results, and loss analysis.
+
+[Repository](https://github.com/hammy229/Loss-in-AI-Translation---Ind-Research) · [Paper](https://research-archive.org/index.php/rars/preprint/view/1453)
 
 ## Links
 
