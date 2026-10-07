@@ -31,6 +31,12 @@ CS + Linguistics at UT Austin.
 
 ## Projects
 
+### [MedData Escrow](https://github.com/hammy229/meddata-escrow) — In Progress
+
+AI procurement and escrow marketplace for medical research data. Uses Amazon Bedrock to match buyers with datasets, PayPal authorize-then-capture payments, and time-limited Amazon S3 delivery.
+
+[Repository](https://github.com/hammy229/meddata-escrow)
+
 ### [The Loss in AI Translation](https://github.com/hammy229/Loss-in-AI-Translation---Ind-Research)
 
 Independent NLP research comparing Transformer and Seq2Seq architectures for machine translation. Includes training code, data, model artifacts, evaluation results, and loss analysis.
