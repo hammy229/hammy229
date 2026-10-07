@@ -12,8 +12,9 @@ CS + Linguistics at UT Austin.
 
 ## Publications
 
-- CoNLL 2025 (co-located w/ ACL): predicting socioeconomic status from Reddit narratives (co-author).
-- ACL 2026: LLM faithfulness under counterfactual medical evidence (lab contributor).
+- CoNLL 2025 (co-located w/ ACL): [predicting socioeconomic status from Reddit narratives](https://aclanthology.org/2025.conll-1.23/) (co-author).
+- ACL 2026: [LLM faithfulness under counterfactual medical evidence](https://arxiv.org/abs/2601.11886) (lab contributor).
+- [The Loss in AI Translation](https://research-archive.org/index.php/rars/preprint/view/1453) — Independent NLP Research.
 
 ## Skills
 
