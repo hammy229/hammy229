@@ -16,15 +16,18 @@ CS + Linguistics at UT Austin.
 - ACL 2026: [LLM faithfulness under counterfactual medical evidence](https://arxiv.org/abs/2601.11886) (lab contributor).
 - [The Loss in AI Translation](https://research-archive.org/index.php/rars/preprint/view/1453) — Independent NLP Research.
 
-## Skills
+## Technical Skills
 
 | | |
 |---|---|
-| **Languages** | Python, Java, JavaScript/TypeScript, C++ |
-| **ML/DL** | PyTorch, TensorFlow, scikit-learn, Hugging Face, PEFT/LoRA, GRPO, attention, LSTMs, CNNs |
-| **NLP** | BERT, RoBERTa, spaCy, NLTK, RAG, few-shot, LLM-as-judge, tokenization, BLEU |
-| **Data/Stats** | pandas, NumPy, SciPy, survival analysis (Cox PH, Kaplan-Meier), PCA, K-means, TF-IDF, cross-validation |
-| **Infra** | TACC HPC (Lonestar6, Vista), Apptainer/Docker, Git, PostgreSQL, REST APIs, Azure OpenAI |
+| **Languages** | Python, C/C++, Java, TypeScript, JavaScript, Go, Rust, SQL, R, Bash, MATLAB |
+| **Deep Learning** | PyTorch, TensorFlow, JAX, Transformers, CNNs, LSTMs, CUDA/Triton, DeepSpeed, FSDP, Accelerate |
+| **LLMs & NLP** | Hugging Face, LoRA/QLoRA, RLHF/GRPO, vLLM, RAG, FAISS, LangChain, LLM agents, prompt engineering |
+| **Machine Learning** | scikit-learn, XGBoost, LightGBM, feature engineering, PCA, K-means, cross-validation |
+| **Data** | pandas, NumPy, SciPy, Polars, Dask, Spark, Matplotlib, Seaborn, Plotly, Airflow, dbt, ETL/ELT |
+| **Cloud & MLOps** | AWS (SageMaker, Bedrock, Lambda, S3), GCP, Azure, Docker, Kubernetes, Terraform, W&B, MLflow |
+| **Backend** | FastAPI, Flask, Node.js, REST APIs, GraphQL, WebSockets, PostgreSQL, MongoDB, Redis |
+| **Tools & HPC** | TACC (Lonestar6, Vista), SLURM, Apptainer, Ray, Linux, Git, Jupyter, Conda, LaTeX |
 
 ## Projects
 
