@@ -40,7 +40,8 @@ Independent NLP research comparing Transformer and Seq2Seq architectures for mac
 ## Links
 
 - Portfolio: [arhamdoshi.dev](https://arhamdoshi.dev)
-- Email: [avd745@my.utexas.edu](mailto:avd745@my.utexas.edu)
+- Email: [doshi.arham22@gmail.com](mailto:doshi.arham22@gmail.com)
+- Email 2: [avd745@my.utexas.edu](mailto:avd745@my.utexas.edu)
 - Twitter/X: [@arhamd22](https://x.com/arhamd22)
 - LinkedIn: [linkedin.com/in/arhamdoshi](https://linkedin.com/in/arhamdoshi)
 - GitHub: [github.com/hammy229](https://github.com/hammy229)
