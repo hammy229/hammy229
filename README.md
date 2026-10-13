@@ -39,7 +39,7 @@ AI procurement and escrow marketplace for medical research data. Uses Amazon Bed
 
 ### [LayoutDNA](https://github.com/amolm7/layout-dna) — In Progress
 
-Adobe Express engine that adapts layered designs to new canvas sizes through intentional, structure-aware layout changes instead of stretching or cropping.
+Layout engine that adapts designs to new canvas sizes through intentional, structure-aware layout changes instead of stretching or cropping.
 
 [Repository](https://github.com/amolm7/layout-dna)
 
