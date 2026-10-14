@@ -31,6 +31,12 @@ CS + Linguistics at UT Austin.
 
 ## Projects
 
+### [Caddie Coach](https://github.com/hammy229/caddie-coach) — In Progress
+
+Voice-first golf caddie and swing coach for Alexa+. Models your real distances, misses, and swing faults from logged shots and phone-camera pose data, then recommends clubs and aim points and coaches your swing. MCP server (Streamable HTTP) on AWS Lambda with DynamoDB and Amazon Bedrock.
+
+[Repository](https://github.com/hammy229/caddie-coach)
+
 ### [MedData Escrow](https://github.com/hammy229/meddata-escrow) — In Progress
 
 AI procurement and escrow marketplace for medical research data. Uses Amazon Bedrock to match buyers with datasets, PayPal authorize-then-capture payments, and time-limited Amazon S3 delivery.
