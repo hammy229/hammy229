@@ -57,3 +57,4 @@ Independent NLP research comparing Transformer and Seq2Seq architectures for mac
 - Twitter/X: [@arhamd22](https://x.com/arhamd22)
 - LinkedIn: [linkedin.com/in/arhamdoshi](https://linkedin.com/in/arhamdoshi)
 - GitHub: [github.com/hammy229](https://github.com/hammy229)
+- Google Scholar: [scholar.google.com/citations?user=gzShr0gAAAAJ](https://scholar.google.com/citations?user=gzShr0gAAAAJ&hl=en)
