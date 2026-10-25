@@ -43,11 +43,11 @@ AI procurement and escrow marketplace for medical research data. Uses Amazon Bed
 
 [Repository](https://github.com/hammy229/meddata-escrow)
 
-### [LayoutDNA](https://github.com/amolm7/layout-dna) — In Progress
+### [Tink](https://github.com/hammy229/tink)
 
-Layout engine that adapts designs to new canvas sizes through intentional, structure-aware layout changes instead of stretching or cropping.
+Learns the few sounds a nonspeaking person can make (a hum, a click, a sigh) and speaks what each one means, in their own banked voice. Built on voc2vec embeddings with a Bayesian model that says "I'm not sure" instead of guessing, and evaluated on 7,077 real sounds from minimally speaking people.
 
-[Repository](https://github.com/amolm7/layout-dna)
+[Repository](https://github.com/hammy229/tink)
 
 ### [The Loss in AI Translation](https://github.com/hammy229/Loss-in-AI-Translation---Ind-Research)
 
