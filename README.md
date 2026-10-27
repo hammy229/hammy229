@@ -47,7 +47,7 @@ AI procurement and escrow marketplace for medical research data. Uses Amazon Bed
 
 Learns the few sounds a nonspeaking person can make (a hum, a click, a sigh) and speaks what each one means, in their own banked voice. Built on voc2vec embeddings with a Bayesian model that says "I'm not sure" instead of guessing, and evaluated on 7,077 real sounds from minimally speaking people.
 
-[Repository](https://github.com/hammy229/tink)
+[Live demo](https://tink-quen.vercel.app/) · [Repository](https://github.com/hammy229/tink)
 
 ### [The Loss in AI Translation](https://github.com/hammy229/Loss-in-AI-Translation---Ind-Research)
 
