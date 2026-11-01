@@ -20,14 +20,15 @@ CS + Linguistics at UT Austin.
 
 | | |
 |---|---|
-| **Languages** | Python, C/C++, Java, TypeScript, JavaScript, Go, Rust, SQL, R, Bash, MATLAB |
-| **Deep Learning** | PyTorch, TensorFlow, JAX, Transformers, CNNs, LSTMs, CUDA/Triton, DeepSpeed, FSDP, Accelerate |
-| **LLMs & NLP** | Hugging Face, LoRA/QLoRA, RLHF/GRPO, vLLM, RAG, FAISS, LangChain, LLM agents, prompt engineering |
-| **Machine Learning** | scikit-learn, XGBoost, LightGBM, feature engineering, PCA, K-means, cross-validation |
-| **Data** | pandas, NumPy, SciPy, Polars, Dask, Spark, Matplotlib, Seaborn, Plotly, Airflow, dbt, ETL/ELT |
-| **Cloud & MLOps** | AWS (SageMaker, Bedrock, Lambda, S3), GCP, Azure, Docker, Kubernetes, Terraform, W&B, MLflow |
-| **Backend** | FastAPI, Flask, Node.js, REST APIs, GraphQL, WebSockets, PostgreSQL, MongoDB, Redis |
-| **Tools & HPC** | TACC (Lonestar6, Vista), SLURM, Apptainer, Ray, Linux, Git, Jupyter, Conda, LaTeX |
+| **Languages** | Python, C, C++, Java, TypeScript, JavaScript, Go, Rust, SQL, R, Bash, MATLAB |
+| **Cloud & MLOps** | AWS (Bedrock, SageMaker, Lambda, S3, SAM), GCP, Azure, Docker, GitHub Actions, Vercel, W&B |
+| **Deep Learning** | PyTorch, TensorFlow/Keras, JAX, Hugging Face, Transformers, CNNs, RNNs, LSTMs, GRUs, Autoencoders, BERT |
+| **LLMs & Agents** | GRPO, RLHF, LoRA/QLoRA/PEFT, SFT, vLLM, RAG, FAISS, LLM agents, MCP, Claude API, OpenAI API |
+| **Speech & NLP** | wav2vec2, HuBERT/voc2vec, librosa, torchaudio, Acoustic phonetics, Machine translation, NLTK |
+| **ML & Statistics** | scikit-learn, Survival analysis, Cox models, Linear & logistic regression, Decision trees, Random forests, Gradient boosting, XGBoost, LightGBM, SVMs, k-NN, Naive Bayes, PCA, K-means |
+| **Data** | pandas, NumPy, SciPy, Polars, Dask, Spark, Matplotlib, Seaborn, Plotly, Airflow, SQLite, Parquet |
+| **Web & Backend** | Next.js, React, Node.js, Express, FastAPI, Flask, Pydantic, Zod, REST APIs, GraphQL, WebSockets, OpenAPI, OAuth 2.1, PayPal APIs, PostgreSQL, MongoDB, Redis, Tailwind CSS, Web Audio API, MediaPipe |
+| **Tools & HPC** | TACC (Lonestar6, Vista), SLURM, Apptainer, Ray, Linux, Git |
 
 ## Projects
 
