@@ -1,6 +1,6 @@
 # Arham Doshi
 
-CS + Linguistics @ UT Austin · ML/NLP Research · SWE
+CS & Linguistics @ UT Austin · ML/NLP Research · SWE
 
 ## About
 
