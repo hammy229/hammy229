@@ -21,6 +21,7 @@ CS + Linguistics at UT Austin.
 | | |
 |---|---|
 | **Languages** | Python, C, C++, Java, TypeScript, JavaScript, Go, Rust, SQL, R, Bash, MATLAB |
+| **Systems & Performance** | C++20, WebAssembly (Emscripten), Memory allocators, CMake, GoogleTest, AddressSanitizer, UBSan |
 | **Cloud & MLOps** | AWS (Bedrock, SageMaker, Lambda, S3, SAM), GCP, Azure, Docker, GitHub Actions, Vercel, W&B |
 | **Deep Learning** | PyTorch, TensorFlow/Keras, JAX, Hugging Face, Transformers, CNNs, RNNs, LSTMs, GRUs, Autoencoders, BERT |
 | **LLMs & Agents** | GRPO, RLHF, LoRA/QLoRA/PEFT, SFT, vLLM, RAG, FAISS, LLM agents, MCP, Claude API, OpenAI API |
@@ -32,17 +33,23 @@ CS + Linguistics at UT Austin.
 
 ## Projects
 
-### [Caddie Coach](https://github.com/hammy229/caddie-coach)
+### Ember (In Progress)
 
-Built for the Amazon Developer "Build, Ship, Shape" Hackathon 2026. Voice-first golf caddie and swing coach for Alexa+. Models your real distances, misses, and swing faults from logged shots and phone-camera pose data, then recommends clubs and aim points and coaches your swing. MCP server (Streamable HTTP) with Amazon Bedrock, built to run on AWS Lambda with DynamoDB.
+An LLM inference engine written from scratch in C++20 with no ML framework, built to run natively and in the browser through WebAssembly. The memory layer is done: tensors, an arena allocator, and sanitizer builds that catch dangling tensors. Text generation is next.
 
-Demo coming soon · [Repository](https://github.com/hammy229/caddie-coach)
+Demo and repository coming soon
 
 ### [MedData Escrow](https://github.com/hammy229/meddata-escrow) — In Progress
 
 AI procurement and escrow marketplace for medical research data. Uses Amazon Bedrock to match buyers with datasets, PayPal authorize-then-capture payments, and time-limited Amazon S3 delivery.
 
 [Repository](https://github.com/hammy229/meddata-escrow)
+
+### [Caddie Coach](https://github.com/hammy229/caddie-coach)
+
+Built for the Amazon Developer "Build, Ship, Shape" Hackathon 2026. Voice-first golf caddie and swing coach for Alexa+. Models your real distances, misses, and swing faults from logged shots and phone-camera pose data, then recommends clubs and aim points and coaches your swing. MCP server (Streamable HTTP) with Amazon Bedrock, built to run on AWS Lambda with DynamoDB.
+
+Demo coming soon · [Repository](https://github.com/hammy229/caddie-coach)
 
 ### [Tink](https://github.com/hammy229/tink)
 
