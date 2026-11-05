@@ -20,16 +20,17 @@ CS + Linguistics at UT Austin.
 
 | | |
 |---|---|
-| **Languages** | Python, C, C++, Java, TypeScript, JavaScript, Go, Rust, SQL, R, Bash, MATLAB |
-| **Systems & Performance** | C++20, WebAssembly (Emscripten), Memory allocators, CMake, GoogleTest, AddressSanitizer, UBSan |
-| **Cloud & MLOps** | AWS (Bedrock, SageMaker, Lambda, S3, SAM), GCP, Azure, Docker, GitHub Actions, Vercel, W&B |
-| **Deep Learning** | PyTorch, TensorFlow/Keras, JAX, Hugging Face, Transformers, CNNs, RNNs, LSTMs, GRUs, Autoencoders, BERT |
-| **LLMs & Agents** | GRPO, RLHF, LoRA/QLoRA/PEFT, SFT, vLLM, RAG, FAISS, LLM agents, MCP, Claude API, OpenAI API |
-| **Speech & NLP** | wav2vec2, HuBERT/voc2vec, librosa, torchaudio, Acoustic phonetics, Machine translation, NLTK |
-| **ML & Statistics** | scikit-learn, Survival analysis, Cox models, Linear & logistic regression, Decision trees, Random forests, Gradient boosting, XGBoost, LightGBM, SVMs, k-NN, Naive Bayes, PCA, K-means |
-| **Data** | pandas, NumPy, SciPy, Polars, Dask, Spark, Matplotlib, Seaborn, Plotly, Airflow, SQLite, Parquet |
-| **Web & Backend** | Next.js, React, Node.js, Express, FastAPI, Flask, Pydantic, Zod, REST APIs, GraphQL, WebSockets, OpenAPI, OAuth 2.1, PayPal APIs, PostgreSQL, MongoDB, Redis, Tailwind CSS, Web Audio API, MediaPipe |
-| **Tools & HPC** | TACC (Lonestar6, Vista), SLURM, Apptainer, Ray, Linux, Git |
+| **Languages** | Python, C, C++, Java, TypeScript, JavaScript, Go, Rust, SQL, Bash |
+| **Systems & Performance** | WebAssembly, CMake, GoogleTest, AddressSanitizer |
+| **Cloud & MLOps** | AWS (Bedrock, SageMaker, Lambda, S3), GCP, Azure, Docker, GitHub Actions, W&B |
+| **Deep Learning** | PyTorch, TensorFlow/Keras, JAX, Hugging Face, Transformers, CNNs, RNNs |
+| **LLMs & Agents** | GRPO, LoRA, vLLM, RAG, FAISS, LLM agents, MCP, Claude API, OpenAI API |
+| **Speech & NLP** | wav2vec2, HuBERT, Machine translation |
+| **ML & Statistics** | scikit-learn, Survival analysis, Random forests, XGBoost, LightGBM |
+| **Data** | pandas, NumPy, Polars, Spark |
+| **Web & Backend** | Next.js, React, Node.js, Express, FastAPI, REST APIs, GraphQL, WebSockets, OpenAPI, OAuth 2.1, PostgreSQL, MongoDB, Redis, Tailwind CSS |
+| **Mobile** | React Native, Android, iOS |
+| **Tools & HPC** | TACC (Lonestar6, Vista), SLURM, Ray, Linux, Git |
 
 ## Projects
 
