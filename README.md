@@ -21,7 +21,7 @@ CS + Linguistics at UT Austin.
 | | |
 |---|---|
 | **Languages** | Python, C, C++, Java, TypeScript, JavaScript, Go, Rust, SQL, Bash |
-| **Systems & Performance** | WebAssembly, CMake, GoogleTest, AddressSanitizer |
+| **Systems & Performance** | Multithreading, SIMD, Quantization, WebAssembly, CMake, GoogleTest, AddressSanitizer |
 | **Cloud & MLOps** | AWS (Bedrock, SageMaker, Lambda, S3), GCP, Azure, Docker, GitHub Actions, W&B |
 | **Deep Learning** | PyTorch, TensorFlow/Keras, JAX, Hugging Face, Transformers, CNNs, RNNs |
 | **LLMs & Agents** | GRPO, LoRA, vLLM, RAG, FAISS, LLM agents, MCP, Claude API, OpenAI API |
@@ -38,13 +38,13 @@ Every project below has the same README layout: results with evidence, why it ma
 
 ### [Ember](https://github.com/hammy229/ember)
 
-An LLM inference engine written from scratch in C++20 with no ML framework, running natively and in the browser through WebAssembly. It loads real Llama models from Hugging Face, matches a separate reference to within 4.2e-5 across all 32,000 logits, runs 815 tokens a second on one thread, and is fuzzed on every push.
+An LLM engine written from scratch in C++20 with no ML framework, running natively and in the browser through WebAssembly. It runs Qwen3 0.6B with the same next token as Hugging Face at every position tested, its own tokenizers, a KV cache, multithreading, and 8-bit weights at 46% of llama.cpp's speed on the same CPU. It also trains small transformers with its own autograd, checked against finite differences, and flags the tokens where the model is unsure so a router can hand off to a bigger model.
 
-[Repository](https://github.com/hammy229/ember) · [Results](https://github.com/hammy229/ember/blob/main/docs/results/2026-11-08-apple-m4.md)
+[Repository](https://github.com/hammy229/ember) · [Against llama.cpp](https://github.com/hammy229/ember/blob/main/docs/results/llamacpp-qwen3-0.6b.md) · [8-bit report](https://github.com/hammy229/ember/blob/main/docs/results/quant-qwen3-0.6b.md)
 
 ### [Tink](https://github.com/hammy229/tink)
 
-Learns the few sounds a nonspeaking person can make (a hum, a click, a sigh) and speaks what each one means, in their own banked voice. voc2vec embeddings in the browser with a Bayesian model that asks instead of guessing, evaluated on 7,077 real sounds from minimally speaking people and on dysarthric speech.
+Learns the few sounds a nonspeaking person can make (a hum, a click, a sigh) and speaks what each one means, in their own banked voice. voc2vec embeddings in the browser with a Bayesian model that asks instead of guessing, evaluated on 7,077 real sounds from minimally speaking people and on dysarthric speech, plus a measured test of when the in-browser model should hand a sound to a bigger one.
 
 [Live demo](https://tink-quen.vercel.app/#demo) · [Repository](https://github.com/hammy229/tink)
 
