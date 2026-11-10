@@ -72,12 +72,6 @@ A multilingual learning platform for Jain philosophy, live in Gujarati, Hindi, a
 
 [Live site](http://www.jainenlightened.org/) · [Repository](https://github.com/hammy229/jain-enlightened)
 
-### [LayoutDNA](https://github.com/hammy229/layout-dna)
-
-Adapts layered designs to new aspect ratios and measures how six structural design genes survive. React client and FastAPI solver, with zero hard-constraint violations across every feasible case in a 40-case evaluation.
-
-[Repository](https://github.com/hammy229/layout-dna)
-
 ## Research code
 
 ### [The Loss in AI Translation](https://github.com/hammy229/Loss-in-AI-Translation---Ind-Research)
