@@ -52,7 +52,7 @@ Learns the few sounds a nonspeaking person can make (a hum, a click, a sigh) and
 
 AI procurement and escrow marketplace for medical research data. An agent matches a study to a dataset and checks a sample, and PayPal holds payment until the data passes. Retrieval MRR 0.846 on a held-out set, and a hostile-model red team blocked 26 of 26 attacks. Synthetic data only.
 
-[Repository](https://github.com/hammy229/meddata-escrow)
+[Live demo](https://meddata-escrow.onrender.com/demo) · [Repository](https://github.com/hammy229/meddata-escrow)
 
 ### [Caddie Coach](https://github.com/hammy229/caddie-coach)
 
