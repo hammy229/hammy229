@@ -42,7 +42,7 @@ An LLM engine written from scratch in C++20 with no ML framework, running native
 
 [Repository](https://github.com/hammy229/ember) · [Against llama.cpp](https://github.com/hammy229/ember/blob/main/docs/results/llamacpp-qwen3-0.6b.md) · [8-bit report](https://github.com/hammy229/ember/blob/main/docs/results/quant-qwen3-0.6b.md)
 
-### [MedData Escrow](https://github.com/hammy229/meddata-escrow) (in progress)
+### [MedData Escrow](https://github.com/hammy229/meddata-escrow)
 
 AI procurement and escrow marketplace for medical research data. An agent matches a study to a dataset and checks a sample, and PayPal holds payment until the data passes. Retrieval MRR 0.846 on a held-out set, and a hostile-model red team blocked 26 of 26 attacks. Synthetic data only.
 
