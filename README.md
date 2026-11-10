@@ -42,17 +42,17 @@ An LLM engine written from scratch in C++20 with no ML framework, running native
 
 [Repository](https://github.com/hammy229/ember) · [Against llama.cpp](https://github.com/hammy229/ember/blob/main/docs/results/llamacpp-qwen3-0.6b.md) · [8-bit report](https://github.com/hammy229/ember/blob/main/docs/results/quant-qwen3-0.6b.md)
 
-### [Tink](https://github.com/hammy229/tink)
-
-Learns the few sounds a nonspeaking person can make (a hum, a click, a sigh) and speaks what each one means, in their own banked voice. voc2vec embeddings in the browser with a Bayesian model that asks instead of guessing, evaluated on 7,077 real sounds from minimally speaking people and on dysarthric speech, plus a measured test of when the in-browser model should hand a sound to a bigger one.
-
-[Live demo](https://tink-quen.vercel.app/#demo) · [Repository](https://github.com/hammy229/tink)
-
 ### [MedData Escrow](https://github.com/hammy229/meddata-escrow) (in progress)
 
 AI procurement and escrow marketplace for medical research data. An agent matches a study to a dataset and checks a sample, and PayPal holds payment until the data passes. Retrieval MRR 0.846 on a held-out set, and a hostile-model red team blocked 26 of 26 attacks. Synthetic data only.
 
 [Live demo](https://meddata-escrow.onrender.com/demo) · [Repository](https://github.com/hammy229/meddata-escrow)
+
+### [Tink](https://github.com/hammy229/tink)
+
+Learns the few sounds a nonspeaking person can make (a hum, a click, a sigh) and speaks what each one means, in their own banked voice. voc2vec embeddings in the browser with a Bayesian model that asks instead of guessing, evaluated on 7,077 real sounds from minimally speaking people and on dysarthric speech, plus a measured test of when the in-browser model should hand a sound to a bigger one.
+
+[Live demo](https://tink-quen.vercel.app/#demo) · [Repository](https://github.com/hammy229/tink)
 
 ### [Caddie Coach](https://github.com/hammy229/caddie-coach)
 
