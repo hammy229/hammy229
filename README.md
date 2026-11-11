@@ -40,7 +40,7 @@ Every project below has the same README layout: results with evidence, why it ma
 
 An LLM engine written from scratch in C++20 with no ML framework, running natively and in the browser through WebAssembly. It runs Qwen3 0.6B with the same next token as Hugging Face at every position tested, its own tokenizers, a KV cache, multithreading, and 8-bit weights at 46% of llama.cpp's speed on the same CPU. It also trains small transformers with its own autograd, checked against finite differences, and flags the tokens where the model is unsure so a router can hand off to a bigger model.
 
-[Repository](https://github.com/hammy229/ember) · [Against llama.cpp](https://github.com/hammy229/ember/blob/main/docs/results/llamacpp-qwen3-0.6b.md) · [8-bit report](https://github.com/hammy229/ember/blob/main/docs/results/quant-qwen3-0.6b.md)
+[Live demo](https://ember-rosy-three.vercel.app) · [Repository](https://github.com/hammy229/ember) · [Against llama.cpp](https://github.com/hammy229/ember/blob/main/docs/results/llamacpp-qwen3-0.6b.md) · [8-bit report](https://github.com/hammy229/ember/blob/main/docs/results/quant-qwen3-0.6b.md)
 
 ### [MedData Escrow](https://github.com/hammy229/meddata-escrow)
 
