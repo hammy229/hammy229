@@ -36,6 +36,12 @@ CS + Linguistics at UT Austin.
 
 Every project below has the same README layout: results with evidence, why it matters, how it works, how to run it, and its limits.
 
+### [Hedge](https://github.com/hammy229/hedge) (in progress)
+
+A Jira triage agent that only acts when it can prove it stays inside the error rate you set, and asks a person about everything else. Built on Atlassian Forge for Codegeist 2026. Built and tested on 2.7 million public Jira issues: at a 3% budget it clears 79.6% of later test tickets from duplicate review, and 1.8% of those clears are really duplicates. It ships as a Jira issue panel, an admin error-budget dial, a Rovo agent and an MCP tool.
+
+[Live demo](https://hedge-delta.vercel.app) · [Repository](https://github.com/hammy229/hedge) · [Results](https://github.com/hammy229/hedge/blob/main/docs/results.md)
+
 ### [Ember](https://github.com/hammy229/ember)
 
 An LLM engine written from scratch in C++20 with no ML framework, running natively and in the browser through WebAssembly. It runs Qwen3 0.6B with the same next token as Hugging Face at every position tested, its own tokenizers, a KV cache, multithreading, and 8-bit weights at 46% of llama.cpp's speed on the same CPU. It also trains small transformers with its own autograd, checked against finite differences, and flags the tokens where the model is unsure so a router can hand off to a bigger model.
