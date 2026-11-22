@@ -60,12 +60,6 @@ A voice golf caddie and swing coach for Alexa+, built for the Amazon "Build, Shi
 
 [Repository](https://github.com/hammy229/caddie-coach)
 
-### [alexa-mcp-oauth](https://github.com/hammy229/alexa-mcp-oauth)
-
-Drop-in OAuth 2.1 for self-hosted MCP servers that link to Alexa+, extracted from Caddie Coach. Stateless, with a test for each of the 7 items on Amazon's auth checklist.
-
-[Repository](https://github.com/hammy229/alexa-mcp-oauth)
-
 ### [Jain Enlightened](https://github.com/hammy229/jain-enlightened)
 
 A multilingual learning platform for Jain philosophy, live in Gujarati, Hindi, and English: a Laravel website, JSON API, and admin panel, plus a React Native app.
