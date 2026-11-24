@@ -6,9 +6,9 @@ Computer Science & Linguistics @ UT Austin · ML/NLP Research · SWE
 
 CS + Linguistics at UT Austin.
 
-**Currently:** [Wang Lab](https://slhs.utexas.edu/research/wang-lab/people) @ Dell Medical School, UT Austin (ALS survival prediction)
+**Currently:** [s9m Labs](https://s9mlabs.com) (Antler Residency; AI engineering intern, bio-inspired foundation models for on-device AI) · [Wang Lab](https://slhs.utexas.edu/research/wang-lab/people) @ Dell Medical School, UT Austin (ALS survival prediction)
 
-**Past:** [ANI.ML Health](https://www.animl.health) (ML intern: CT radiomics and oral-tumor detection for veterinary oncology) · [Wenqi Lab](https://qbrc.swmed.edu/labs/shilab/) @ UTSW (LLM-as-RNN, clinical AI) · [UT Discourse Lab](https://jessyli.com/) (LLM behavior) · SMU CS (socioeconomic status from Reddit narratives, CoNLL 2025) · [Hayden Lab](https://www.bcm.edu/research/faculty-labs/benjamin-hayden-lab), Baylor College of Medicine (data from patients with epilepsy)
+**Past:** [ANI.ML Health](https://www.animl.health) (ML intern: CT radiomics and oral-tumor detection for veterinary oncology) · [Wenqi Lab](https://qbrc.swmed.edu/labs/shilab/) @ UT Southwestern (LLM-as-RNN, clinical AI) · [UT Discourse Lab](https://jessyli.com/) (LLM behavior) · SMU CS (socioeconomic status from Reddit narratives, CoNLL 2025) · [Hayden Lab](https://www.bcm.edu/research/faculty-labs/benjamin-hayden-lab), Baylor College of Medicine (data from patients with epilepsy)
 
 ## Publications
 
